@@ -59,18 +59,7 @@ Ejemplo
 
 # Static Field
 
-Un Atributo static:
-
--  No es específico de cada objeto. Solo hay una copia del mismo y su valor es compartido por todos los objetos de la clase.
--  Podemos considerarlo como una variable global a la que tienen acceso todos los objetos de la clase.
--  Existe y puede utilizarse aunque no existan objetos de la clase.
--  Para acceder a un atributo de clase se escibe: NombreClase.atributo
--  
-Un Método static:
-
--  Tiene acceso solo a los atributos estáticos de la clase.
--  No es necesario instanciar un objeto para poder utilizarlo.
--  Para acceder a un método de clase se escribe: NombreClase.método()
+Un Atributo static no es específico de cada objeto. Solo hay una copia del mismo y su valor es compartido por todos los objetos de la clase.Podemos considerarlo como una variable global a la que tienen acceso todos los objetos de la clase. Existe y puede utilizarse aunque no existan objetos de la clase.Un Método static tiene acceso solo a los atributos estáticos de la clase y no es necesario instanciar un objeto para poder utilizarlo.
 
 Ejemplo
 
