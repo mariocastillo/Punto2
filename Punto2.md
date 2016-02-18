@@ -1,7 +1,6 @@
 # Punto2
 Laboratorio 1 punto 2 Aplicaciones Moviles
 
-An interface is a reference type in Java, it is similar to class, it is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
-Along with abstract methods an interface may also contain constants, default methods, static methods, and nested types. Method bodies exist only for default methods and static methods.
-Writing an interface is similar to writing a class. But a class describes the attributes and behaviours of an object. And an interface contains behaviours that a class implements.
-Unless the class that implements the interface is abstract, all the methods of the interface need to be defined in the class.
+Una interfaz es un tipo de referencia en java (similar a una clase), es una coleccion de methodos abstract  Una clase que implemente una interface hereda los metodos abstract de la interfaz. Las intefaces se describen de la misma manera que las clases, pero las clases describen los atributos y comportamientos del objeto a diferencia de la interfaz que contiene el comportamiento que la clase implementa.
+
+Ejemplo
